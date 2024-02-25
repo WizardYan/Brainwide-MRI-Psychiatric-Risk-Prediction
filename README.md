@@ -6,3 +6,4 @@ __Results__: The BRS revealed a clear, reproducible gradient of FNC patterns fro
 
 __Conclusion__: The BRS could be a new image-based tool for assessing psychiatric vulnerability over time and in unaffected individuals, and it could also serve as a potential biomarker, facilitating early screening and monitoring interventions.
 
+__Please cite__: Yan, W., Pearlson, G. D., Fu, Z., Li, X., Iraji, A., Chen, J., Sui, J., Volkow, N. D., & Calhoun, V. D. (2023). A Brainwide Risk Score for Psychiatric Disorder Evaluated in a Large Adolescent Population Reveals Increased Divergence Among Higher-Risk Groups Relative to Control Participants. Biological Psychiatry. 
