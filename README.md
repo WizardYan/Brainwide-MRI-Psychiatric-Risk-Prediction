@@ -1,4 +1,5 @@
-__A Brainwide Risk Score for Psychiatric Disorder Evaluated in a Large Adolescent Population Reveals Increased Divergence Among Higher-Risk Groups Relative to Control Participants__
+
+![](.//Users/yanw4/Desktop/Screen Shot 2024-02-25 at 9.55.47 AM.png)
 
 __Background__: Accurate psychiatric risk assessment requires biomarkers that are both stable and adaptable to development. Functional network connectivity (FNC), which steadily reconfigures over time, potentially contains abundant information to assess psychiatric risks. However, the absence of suitable analytical methodologies has constrained this area of investigation.
 
